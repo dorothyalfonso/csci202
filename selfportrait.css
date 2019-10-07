@@ -1,0 +1,98 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo1 {
+    width: 100%;
+    transform: rotate(90deg);
+}
+
+.photo2{
+    width: 100%;
+    height: 50%;
+    
+}
+
+.d1{
+    align-self: end;
+    text-align: right;
+}
+
+.toptext{
+    font-size: 20px;
+    text-align: center;
+}
+
+.d3{
+    text-align: center;
+}
+
+.topbar {
+    font-size: 200px;
+    text-align: center;
+
+}
+
+.lefttext{
+    font-size:20px;
+    text-align: center;
+
+}
+
+.d11{
+    vertical-align: middle;
+}
+
+.leftbar {
+    font-size:200px;
+    
+    
+}
+
+.d12{
+    text-align: center;
+}
+
+.rightbar {
+    font-size:200px;
+    
+    
+
+}
+
+.d14 {
+    text-align: center;
+}
+
+.righttext{
+    font-size: 20px;
+    text-align:center;
+}
+
+.bottombar {
+    font-size: 200px;
+    text-align: center;
+
+
+}
+
+.hairflipgif {
+    height:60%;
+    width:60%;
+    
+    
+}
+
+.d23{
+    text-align: center;
+}
+
+.container {
+    font-size: 40px;
+    width: 80%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+
